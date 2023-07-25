@@ -23,7 +23,7 @@ End the program
 #Developed by :Gedipudi Darshani
 #RegisterNumber: 23004619
 with open('/content/drive/My Drive/wordcount.txt,'w')as f:
-  text="Saveetha Engineering college"
+  text="Saveetha Engineering college Anna university"
 f.writelines(text)
 
 with open('/content/drive/My Drive/wordcount.txt,'w')as f:
@@ -31,7 +31,7 @@ with open('/content/drive/My Drive/wordcount.txt,'w')as f:
   print(ln(text))
 ``````
 ### OUTPUT:
-![solution](output1.png)
+![solution](output50.png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
